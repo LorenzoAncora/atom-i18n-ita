@@ -139,6 +139,8 @@ describe('validation', () => {
       ]
       const YAML_FILES = [
         'about',
+        'context',
+        'welcome',
       ]
 
       YAML_FILES.forEach(fileName => {
