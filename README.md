@@ -1,3 +1,7 @@
+## Full italian translation of Atom by Lorenzo Ancora.<br/>This feature was [accepted/merged](https://github.com/liuderchi/atom-i18n/tree/2da62eb74a6daf24dd9a6564d49f0acac88ac2ed) in Atom (atom-i18n) and the repository is now read-only. 
+
+---
+
 # atom-i18n
 
 [![apm-download-count][apm-download-count]][apm-download-link]
